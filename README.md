@@ -21,6 +21,9 @@ A weather dashboard application that allows users to search for current and futu
 - Search history functionality
 - Ability to delete cities from search history
 
+## Screenshot
+![Weather Dashboard Screenshot](./Assets/weather-dashboard-screenshot.png)
+
 ## Deployment
 
 The application is deployed here: [Weather Dashboard](https://weather-dashboard-5bfd.onrender.com)
